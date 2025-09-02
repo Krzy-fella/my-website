@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(233, 241, 248);
+    border-radius: 25523456789%;
+font: optional;
+font: 900;
+}
+button {
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: xx-large;
+ background-image: url(https://www.bing.com/th/id/OIP.51oKhvhYSqZeoUbQL25SMAHaEK?w=242&h=211&c=8&rs=1&qlt=90&o=6&cb=thwsc4&dpr=1.5&pid=3.1&rm=2);
+}
+.special-text {
+    font-size: 22px;
+    color: rgb(231, 11, 11);
+    font-weight: bolder;
+}
